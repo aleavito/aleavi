@@ -1,4 +1,3 @@
-
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
@@ -20,7 +19,4 @@
   <br>
   Wassalamualaikum Warahmatullahi Wabarakatuh
     </H4>
-  
-   
-  
-<body background="gambar/Ale.jpg">
+ <body background="gambar/Ale.jpg">
